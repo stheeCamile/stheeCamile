@@ -25,4 +25,4 @@ Sou uma estudante de Engenharia de Software no 4° período e trabalho como Asse
   <a href="https://www.linkedin.com/in/sthefanycamile/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-Fique à vontade para entrar em contato comigo se tiver alguma pergunta ou se quiser discutir oportunidades de colaboração.
+Fique à vontade para entrar em contato comigo se tiver alguma pergunta ou se quiser discutir oportunidades de colaboração!
