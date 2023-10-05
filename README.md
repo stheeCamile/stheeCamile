@@ -1,6 +1,6 @@
 ### Olá! Sou Sthefany Camile 👋
 
-Sou uma estudante de Engenharia de Software no 4° período e trabalho como Assessora Parlamentar na Assembleia Legislativa do Paraná.
+Estudante de Engenharia de Software no 4° período e trabalho como Desenvolvedora FullStack na DuckTech Co. 
 
 ## Habilidades e Interesses
 
@@ -11,7 +11,8 @@ Sou uma estudante de Engenharia de Software no 4° período e trabalho como Asse
 - Desenvolvimento de Aplicações Python para Machine Learning: Tenho interesse e experiência no desenvolvimento de aplicações Python para Machine Learning. Estou familiarizado com bibliotecas populares, como TensorFlow e scikit-learn, e posso criar modelos de Machine Learning para análise de dados e previsões.
 
 - Criação e gerenciamento de API's em Python usando os frameworks do Django e Django RestFul. Manipulação de Docker e conteinerização de aplicações.
-
+  
+-  Desenvolvimento e manutenção de sistema de marketing multinível utilizando PHP, Laravel e banco de dados MySQL, incluindo conhecimento em segurança, colaboração em equipe e documentação.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stheeCamile&show_icons=true&theme=tokyonight" />
 </a>
