@@ -6,9 +6,9 @@
   </div>
 
   <div style="font-size: 16px; color: #666; height: 320px; width: 500px; display: flex; flex-direction: column; justify-content: center; overflow: hidden;">
-    <p>Desenvolvedora FullStack com experiência em automação (Selenium), front-end (Vue.js), back-end (PHP Laravel) e APIs (Django). Tenho habilidades em C#, .NET e Docker, e busco aplicar e expandir minhas competências em soluções escaláveis e inovadoras..</p>
-    <p>Atualmente, sou Desenvolvedora FullStack na DuckTech Co., trabalhando com sistemas B2C e B2B, integração de APIs e automação de testes. Também tenho experiência em Machine Learning usando Python e bibliotecas como TensorFlow.</p>
-  <p>Tenho interesse em robótica e movimento maker, com experiência em projetos Arduino. Estou sempre aprendendo mais sobre inteligência artificial (IA).
+    <p> - Desenvolvedora FullStack com experiência em automação (Selenium), front-end (Vue.js), back-end (PHP Laravel) e APIs (Django). Tenho habilidades em C#, .NET e Docker, e busco aplicar e expandir minhas competências em soluções escaláveis e inovadoras..</p>
+    <p> - Atualmente, sou Desenvolvedora FullStack no Grupo Oh!., trabalhando com sistemas B2C e B2B, integração de APIs e automação de testes. Também tenho experiência em Machine Learning usando Python e bibliotecas como TensorFlow.</p>
+  <p> - Tenho interesse em robótica e movimento maker, com experiência em projetos Arduino. Estou sempre aprendendo mais sobre inteligência artificial (IA).
   </div>
 </div>  
   
