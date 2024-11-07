@@ -1,21 +1,38 @@
 ### Olá! Sou Sthefany Camile 👋
 
-Estudante de Engenharia de Software no 4° período e trabalho como Desenvolvedora FullStack na DuckTech Co. 
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;  height: 320px;">
+  <div>
+    <img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ5bGF4b3BmbjAzNnlqMGtwbmhubzFmcHh2dzB0bmdwN2wwMnM4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" style="max-height: 320px; object-fit: cover;" />
+  </div>
 
-## Habilidades e Interesses
-
-- Automações com Selenium: Tenho experiência em criar scripts para automação de testes em aplicativos web usando a ferramenta Selenium. Com ela, posso interagir com elementos da interface do usuário em um navegador da web.
-
-- Projetos Front-end: Tenho conhecimentos em Vue, Quasar e TypeScript para desenvolvimento de projetos front-end. Estou familiarizado com o desenvolvimento de interfaces de usuário interativas e responsivas.
-
-- Desenvolvimento de Aplicações Python para Machine Learning: Tenho interesse e experiência no desenvolvimento de aplicações Python para Machine Learning. Estou familiarizado com bibliotecas populares, como TensorFlow e scikit-learn, e posso criar modelos de Machine Learning para análise de dados e previsões.
-
-- Criação e gerenciamento de API's em Python usando os frameworks do Django e Django RestFul. Manipulação de Docker e conteinerização de aplicações.
+  <div style="font-size: 16px; color: #666; height: 320px; width: 500px; display: flex; flex-direction: column; justify-content: center; overflow: hidden;">
+    <p>Desenvolvedora FullStack com experiência em automação (Selenium), front-end (Vue.js), back-end (PHP Laravel) e APIs (Django). Tenho habilidades em C#, .NET e Docker, e busco aplicar e expandir minhas competências em soluções escaláveis e inovadoras..</p>
+    <p>Atualmente, sou Desenvolvedora FullStack na DuckTech Co., trabalhando com sistemas B2C e B2B, integração de APIs e automação de testes. Também tenho experiência em Machine Learning usando Python e bibliotecas como TensorFlow.</p>
+  <p>Tenho interesse em robótica e movimento maker, com experiência em projetos Arduino. Estou sempre aprendendo mais sobre inteligência artificial (IA).
+Estou em busca de novos desafios que me permitam crescer e apicar tecnologias emergentes.</p>
+  </div>
+</div>  
   
--  Desenvolvimento e manutenção de sistema de marketing multinível utilizando PHP, Laravel e banco de dados MySQL, incluindo conhecimento em segurança, colaboração em equipe e documentação.
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stheeCamile&show_icons=true&theme=tokyonight" />
-</a>
+ ## 💼 Habilidades Técnicas
+
+### 🔧 Linguagens e Frameworks
+- **Backend**: C# (.NET), Python (Django), PHP (Laravel)
+- **Frontend**: Vue.js, Quasar
+- **Automação e ML**: Selenium, Machine Learning (TensorFlow, scikit-learn)
+- **DevOps**: Docker, Git
+
+### 🛠 Práticas de Qualidade e Arquitetura de Software
+- POO, SOLID, Design Patterns, DDD
+
+### 🧠 Outros Conhecimentos
+- Banco de Dados: MySQL
+- Noções de HTML, CSS, JavaScript
+- Testes Unitários: xUnit, MSTest
+- Metodologias Ágeis: Scrum, Kanban
+
+  
+  ---
+
 
 ## Contato
 
