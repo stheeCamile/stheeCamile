@@ -9,7 +9,6 @@
     <p>Desenvolvedora FullStack com experiência em automação (Selenium), front-end (Vue.js), back-end (PHP Laravel) e APIs (Django). Tenho habilidades em C#, .NET e Docker, e busco aplicar e expandir minhas competências em soluções escaláveis e inovadoras..</p>
     <p>Atualmente, sou Desenvolvedora FullStack na DuckTech Co., trabalhando com sistemas B2C e B2B, integração de APIs e automação de testes. Também tenho experiência em Machine Learning usando Python e bibliotecas como TensorFlow.</p>
   <p>Tenho interesse em robótica e movimento maker, com experiência em projetos Arduino. Estou sempre aprendendo mais sobre inteligência artificial (IA).
-Estou em busca de novos desafios que me permitam crescer e apicar tecnologias emergentes.</p>
   </div>
 </div>  
   
